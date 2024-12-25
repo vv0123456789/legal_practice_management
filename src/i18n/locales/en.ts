@@ -1,0 +1,52 @@
+export default {
+  app: {
+    name: 'TechLegal',
+  },
+  auth: {
+    signIn: 'Sign in',
+    email: 'Email',
+    password: 'Password',
+    rememberMe: 'Remember me',
+    forgotPassword: 'Forgot password?',
+  },
+  common: {
+    search: 'Search',
+    save: 'Save',
+    create: 'Create',
+    cancel: 'Cancel',
+    optional: 'optional',
+  },
+  navigation: {
+    dashboard: 'Dashboard',
+    calendar: 'Calendar',
+    tasks: 'Tasks',
+    documents: 'Documents',
+    clients: 'Clients',
+    research: 'Research',
+    settings: 'Settings',
+  },
+  documents: {
+    title: 'Documents',
+    templates: 'Templates',
+    recentDocuments: 'Recent Documents',
+    searchPlaceholder: 'Search templates...',
+    createNew: 'Create New Document',
+    clientSelection: 'Client',
+    existingClient: 'Existing Client',
+    newClient: 'New Client',
+    selectClient: 'Select a client',
+    enterClientName: 'Enter client name',
+    documentName: 'Document Name',
+    note: 'Note',
+    editor: {
+      comingSoon: 'Document editor coming soon...',
+    },
+    finalize: 'Finalize',
+  },
+  footer: {
+    rights: 'All rights reserved.',
+    privacy: 'Privacy Policy',
+    terms: 'Terms of Service',
+    support: 'Support',
+  },
+};
